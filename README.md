@@ -24,9 +24,7 @@ Make sure each swimmer has already propelled themself off of the wall at the sta
 
 2. **Selecting Videos within the algorithm**
 
-Within the Scripts folder, open Sway.ipynb.  In the first two lines, there are string variables representing the learner video
-and the expert video the algorithm will reference.  Change the string values of those variables to the file names of the videos 
-you would like to use with the algorithm.
+Within the Scripts folder, open Sway.ipynb.  In the first two lines, there are string variables representing the learner video and the expert video the algorithm will reference.Change the string values of those variables to the file names of the videos you would like to use with the algorithm.
 
 3. **Running the Algorithm**
 
