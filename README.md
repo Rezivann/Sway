@@ -9,6 +9,7 @@ This repository contains the Sway pipeline, along with sample data to showcase S
 ## Features
 - Identifies key joints of a swimmer using pose estimation
 - Measures joint angles on shoulders, hips, and knees throughout each kick cycle
+- Automatically crops videos to show swimmers and angle annotations more clearly
 - Synchronizes kick cycles to enable frame-accurate comparison
 - Generates side-by-side comparisons with annotated angles
 - Identifies key moments during each kick
