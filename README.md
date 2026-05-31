@@ -6,7 +6,7 @@
 
 This repository contains the code that comprises this algorithm, as well as sample videos to compare using the algorithm.
 
-## Instillation
+## Installation
 
 1. **Clone the repository**
 ```bash
@@ -65,8 +65,8 @@ https://github.com/user-attachments/assets/b3c34143-32ca-42c4-9552-9eaef8388854
 
 
 
-https://github.com/user-attachments/assets/6bf12ba2-3952-40fa-8cc4-ffc1f91ab77c
 
+https://github.com/user-attachments/assets/d2124623-a33a-4309-aba8-44f6e7379c07
 
 
 
@@ -78,7 +78,12 @@ https://github.com/user-attachments/assets/6bf12ba2-3952-40fa-8cc4-ffc1f91ab77c
 
 
 
-https://github.com/user-attachments/assets/4f6f6658-80c5-42f5-b4a4-865e42faa492
+
+https://github.com/user-attachments/assets/7e86d040-a8b0-495b-a60b-d2e861d8c6fa
+
+
+
+
 
 
 
