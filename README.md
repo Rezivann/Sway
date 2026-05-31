@@ -1,13 +1,27 @@
+# Sway -AI-Powered Underwater Kick Analysis for Swimmers
 
+Sway is a computer vision system that analyzes underwater kick technique and compares it to an expert swimmer to provide objective, biomechanical feedback.
 
+Using pose estimation, Sway identifies key points of a swimmer's body throughout a kick video, measures three critical joint angles, synchronizes kick cycles between swimmers, and discovers differences in technique.  The result is a set of visualizations, data, and textual feedback meant to help a swimmer improve without paying for expensive private coaching.
 
+This repository contains the complete Sway pipeline, along with sample data to showcase Sway's outputs.
 
-# Sway - A Pose Estimation Pipeline Improving Underwater Kick Technique
+## Features
+- Identifies key joints of a swimmer using pose estimation
+- Measures joint angles on shoulders, hips, and knees throughout each kick cycle
+- Synchronizes kick cycles to enable frame-accurate comparison
+- Generates side-by-side comparisons with annotated angles
+- Identifies key moments during each kick
+- Generates biomechanical feedback for a swimmer at each key moment
+- Exports angle comparison data from key moments for further analysis
 
-This repository contains the code that comprises this algorithm, as well as sample videos to compare using the algorithm.
+## Getting Started
 
-## Installation
+### Prerequisites
+- Python 3.11 or higher
+- pip package manager
 
+### Installation
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Rezivann/Sway
@@ -64,31 +78,11 @@ https://github.com/user-attachments/assets/b3c34143-32ca-42c4-9552-9eaef8388854
 4. Side-by-Side Comparison - video that shows learner's video on top with angles and angle differences annotated as well as the expert's video with their angles on the bottom.  The kick cycles are synced up visually to show exact differences in technique for each frame.
 
 
-
-
 https://github.com/user-attachments/assets/d2124623-a33a-4309-aba8-44f6e7379c07
-
-
-
-
-
-
 
 5. Side-by-Side Comparison (Slowed) - Same as the Side-by-Side Comparison but played at 25% speed.
 
-
-
-
 https://github.com/user-attachments/assets/7e86d040-a8b0-495b-a60b-d2e861d8c6fa
-
-
-
-
-
-
-
-
-
 
 
 
