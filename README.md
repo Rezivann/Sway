@@ -1,4 +1,4 @@
-# Sway -AI-Powered Underwater Kick Analysis for Swimmers
+# Sway - AI-Powered Underwater Kick Analysis for Swimmers
 
 Sway is a computer vision system that analyzes underwater kick technique and compares it to an expert swimmer to provide objective, biomechanical feedback.
 
