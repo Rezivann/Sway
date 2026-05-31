@@ -36,10 +36,11 @@ The highest number represents the most recent trial.  Within each folder is a co
 
 
 ### Videos
-1. Original Annotated Video - the learner's video but with their joint angles and angle differences annotated.
-2. Original Annotated Video (Slowed) - Same as the annotated video but when angle comparisons are being made, the video plays at 25% speed.
-3. Key Moments Video - video that cycles through frames of the original annotated video where the thigh-calf angle is at its minimum and maximum values for each kick
+1. Annotated Learner's Video - the learner's video but with their joint angles and angle differences annotated.
+2. Annotated Learner's Video (Slowed) - Same as Annotated Learner's Video but when angle comparisons are being made, the video plays at 25% speed.
+3. Key Moments Video - video that cycles through frames of the original annotated video where the thigh-calf angle is at its minimum and maximum values for each kick.
 4. Side-by-Side Comparison - video that shows learner's video on top with angles and angle differences annotated as well as the expert's video with their angles on the bottom.  The kick cycles are synced up visually to show exact differences in technique for each frame.
+5. Side-by-Side Comparison (Slowed) - Same as the Side-by-Side Comparison but played at 25% speed.
 
 ### Data and Feedback
 1. DifferenceData.csv - Tabular data of the body angles of the learner and expert at each key moment.  The differences between these angles is included as well.
