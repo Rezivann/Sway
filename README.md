@@ -35,6 +35,19 @@ When you run the algorithm, a folder will be created with in the Outputs folder 
 The highest number represents the most recent trial.  Within each folder is a collection of files representing the various outputs of the algorithm.
 
 
+### Example Inputs
+Learner Video:
+
+<video width="320" height="240" controls>
+  <source src="./ExampleVideos/Input/learnerUnderwater.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<iframe src="./ExampleVideos/Input/learnerUnderwater.mp4" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> 
+</iframe>
+
+<embed type="video/mp4" src="./ExampleVideos/Input/learnerUnderwater.mp4">
+
 ### Videos
 1. Annotated Learner's Video - the learner's video but with their joint angles and angle differences annotated.
 2. Annotated Learner's Video (Slowed) - Same as Annotated Learner's Video but when angle comparisons are being made, the video plays at 25% speed.
