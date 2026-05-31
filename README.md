@@ -34,7 +34,7 @@ Run all cells within Sway.ipynb
 When you run the algorithm, a folder will be created with in the Outputs folder labled "Output - (number)".  
 The highest number represents the most recent trial.  Within each folder is a collection of files representing the various outputs of the algorithm.
 
-
+<!--
 ### Example Inputs
 Learner Video:
 
@@ -43,10 +43,9 @@ Learner Video:
 Your browser does not support the video tag.
 </video>
 
-<iframe src="./ExampleVideos/Input/learnerUnderwater.mp4" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> 
-</iframe>
-
-<embed type="video/mp4" src="./ExampleVideos/Input/learnerUnderwater.mp4">
+<embed type="./ExampleVideos/Input/learnerUnderwater.mp4" src="./ExampleVideos/Input/learnerUnderwater.mp4">
+<video src="/static/my-demo.mp4" controls></video>
+-->
 
 ### Videos
 1. Annotated Learner's Video - the learner's video but with their joint angles and angle differences annotated.
