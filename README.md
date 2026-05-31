@@ -2,7 +2,7 @@
 
 
 
-# Sway - A Human Pose Estimation Algorithm Improving Underwater Kick Technique
+# Sway - A Pose Estimation Pipeline Improving Underwater Kick Technique
 
 This repository contains the code that comprises this algorithm, as well as sample videos to compare using the algorithm.
 
