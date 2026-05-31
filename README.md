@@ -1,8 +1,12 @@
+
+
+
+
 # Sway - A Human Pose Estimation Algorithm Improving Underwater Kick Technique
 
 This repository contains the code that comprises this algorithm, as well as sample videos to compare using the algorithm.
 
-## Instillation
+## Installation
 
 1. **Clone the repository**
 ```bash
@@ -34,25 +38,59 @@ Run all cells within Sway.ipynb
 When you run the algorithm, a folder will be created with in the Outputs folder labled "Output - (number)".  
 The highest number represents the most recent trial.  Within each folder is a collection of files representing the various outputs of the algorithm.
 
-<!--
 ### Example Inputs
+
 Learner Video:
 
-<video width="320" height="240" controls>
-  <source src="./ExampleVideos/Input/learnerUnderwater.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/654ca411-711b-42bf-8cc9-00b4f5167ad5
 
-<embed type="./ExampleVideos/Input/learnerUnderwater.mp4" src="./ExampleVideos/Input/learnerUnderwater.mp4">
-<video src="/static/my-demo.mp4" controls></video>
--->
+Expert Video:
+
+https://github.com/user-attachments/assets/11afdf44-2e0f-4cc9-9506-7b82bd2c5ac9
 
 ### Videos
 1. Annotated Learner's Video - the learner's video but with their joint angles and angle differences annotated.
+
+https://github.com/user-attachments/assets/2536bf72-c39f-401f-817a-fd4dfbbbb8d2
+
 2. Annotated Learner's Video (Slowed) - Same as Annotated Learner's Video but when angle comparisons are being made, the video plays at 25% speed.
+
+https://github.com/user-attachments/assets/ddda712c-d07c-4844-9c61-2e3844a80fb4
+   
 3. Key Moments Video - video that cycles through frames of the original annotated video where the thigh-calf angle is at its minimum and maximum values for each kick.
+
+https://github.com/user-attachments/assets/b3c34143-32ca-42c4-9552-9eaef8388854
+
 4. Side-by-Side Comparison - video that shows learner's video on top with angles and angle differences annotated as well as the expert's video with their angles on the bottom.  The kick cycles are synced up visually to show exact differences in technique for each frame.
+
+
+
+
+https://github.com/user-attachments/assets/d2124623-a33a-4309-aba8-44f6e7379c07
+
+
+
+
+
+
+
 5. Side-by-Side Comparison (Slowed) - Same as the Side-by-Side Comparison but played at 25% speed.
+
+
+
+
+https://github.com/user-attachments/assets/7e86d040-a8b0-495b-a60b-d2e861d8c6fa
+
+
+
+
+
+
+
+
+
+
+
 
 ### Data and Feedback
 1. DifferenceData.csv - Tabular data of the body angles of the learner and expert at each key moment.  The differences between these angles is included as well.
