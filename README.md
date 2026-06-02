@@ -6,6 +6,8 @@ Using pose estimation, Sway identifies key points of a swimmer's body throughout
 
 This repository contains the Sway pipeline, along with sample data to showcase Sway's outputs.
 
+https://github.com/user-attachments/assets/7e86d040-a8b0-495b-a60b-d2e861d8c6fa
+
 ## Features
 - Identifies key joints of a swimmer using pose estimation
 - Measures joint angles on shoulders, hips, and knees throughout each kick cycle
